@@ -1,0 +1,53 @@
+2017-10-02 20:46:22, Tennis, Evan / Daniel , Handicap, -6.50, 2.54, 2.54, 0, 18bet,      40, 839.58,  0, 3, BET_SUCCESS, 0
+2017-10-02 20:46:18, Tennis, Evan / Daniel , Handicap, -6.50, 1.64, 1.81, 1, 1xbetchina, 56, 1036.44, 0, 0, BET_VALUE_DECREASED, 0
+2017-10-02 20:47:59, Tennis, Evan / Daniel , Handicap, -6.50, 1.81, 1.81, 1, 1xbetchina, 56, 1026.44, 0, 7, BET_UNABLE, 2
+2017-10-02 20:48:12, Tennis, Evan / Daniel , Handicap, -6.50, 1.62, 1.78, 1, babibet,    57, 1034.10, 0, 3, BET_VALUE_DECREASED, 2
+2017-10-02 20:48:19, Tennis, Evan / Daniel , Handicap, -6.50, 1.81, 1.81, 1, 1xbetchina, 56, 1026.44, 0, 6, BET_UNABLE, 2
+2017-10-02 20:48:24, Tennis, Evan / Daniel , Handicap, -6.50, 1.62, 1.78, 1, babibet,    57, 1034.10, 0, 3, BET_VALUE_DECREASED, 2
+2017-10-02 20:48:28, Tennis, Evan / Daniel , Handicap, -6.50, 1.49, 1.81, 1, 1xbetchina, 56, 1026.44, 0, 3, BET_VALUE_DECREASED, 1
+2017-10-02 20:49:16, Tennis, Evan / Daniel , Handicap, -6.50, 1.73, 1.73, 1, 1xbetchina, 58, 1026.44, 0, 7, BET_UNABLE, 2
+2017-10-02 20:49:58, Tennis, Evan / Daniel , Handicap, -6.50, 1.75, 1.75, 1, babibet,    58, 976.10,  0, 3, BET_SUCCESS, 0
+2017-10-02 20:47:38, Tennis, Jared / Luis , Handicap, -3.50, 1.66, 1.66, 1, 18bet,      51, 788.58,  0, 7,  BET_SUCCESS, 0
+2017-10-02 20:47:45, Tennis, Jared / Luis , Handicap, -3.50, 8.50, 8.50, 0, 1xbetchina, 10, 1026.44, 0, 14, BET_SUCCESS, 0
+2017-10-02 20:50:22, Tennis, Daniel / Facundo , Over/Under, 19.50, 2.15, 2.15, 0, 18bet,   45, 743.58,  0, 3, BET_SUCCESS, 0
+2017-10-02 20:50:21, Tennis, Daniel / Facundo , Over/Under, 19.50, 1.68, 2.16, 1, babibet, 45, 1034.10, 0, 3, BET_VALUE_DECREASED, 2
+2017-10-02 20:50:27, Tennis, Daniel / Facundo , Over/Under, 19.50, 1.65, 2.16, 1, babibet, 44, 1034.10, 0, 4, BET_VALUE_DECREASED, 0
+
+2017-10-03 02:52:07, Tennis, Alexandra / Viktorija , Handicap, -7.50, 1.95, 1.95, 1, 18bet,      48, 820.24, 0, 3,  BET_SUCCESS, 0
+2017-10-03 02:52:15, Tennis, Alexandra / Viktorija , Handicap, -7.50, 2.37, 2.37, 0, 1xbetchina, 40, 986.44, 0, 11, BET_SUCCESS, 0
+2017-10-03 03:08:39, Tennis, Ramu / Marianna , Over/Under, 21.50, 2.10, 2.10, 1, 18bet,      46, 822.24, 0, 3,  BET_SUCCESS, 0
+2017-10-03 03:08:47, Tennis, Ramu / Marianna , Over/Under, 21.50, 2.15, 2.15, 0, 1xbetchina, 45, 941.44, 0, 11, BET_SUCCESS, 0
+2017-10-03 03:09:43, Football, Montego / Boys, Handicap, 0.00, 2.12, 2.12, 0, 188bet,     50, 1203.76, 0, 1, BET_SUCCESS, 0
+2017-10-03 03:09:39, Football, Montego / Boys, Handicap, 0.00, 1.73, 2.10, 1, 1xbetchina, 50, 941.44,  0, 2, BET_VALUE_DECREASED, 2
+2017-10-03 03:09:46, Football, Montego / Boys, Handicap, 0.00, 1.73, 2.10, 1, 1xbetchina, 50, 941.44,  0, 2, BET_VALUE_DECREASED, 2
+2017-10-03 03:09:50, Football, Montego / Boys, Handicap, 0.00, 1.73, 2.10, 1, 1xbetchina, 50, 941.44,  0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:09:55, Football, Montego / Boys, Handicap, 0.00, 1.73, 2.10, 1, 1xbetchina, 50, 941.44,  0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:09:59, Football, Montego / Boys, Handicap, 0.00, 1.73, 2.11, 1, 1xbetchina, 50, 986.44,  0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:10:02, Football, Montego / Boys, Handicap, 0.00, 1.72, 2.11, 1, 1xbetchina, 50, 941.44,  0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:10:08, Football, Montego / Boys, Handicap, 0.00, 1.72, 2.12, 1, 1xbetchina, 50, 941.44,  0, 4, BET_VALUE_DECREASED, 2
+2017-10-03 03:10:11, Football, Montego / Boys, Handicap, 0.00, 1.72, 2.12, 1, 1xbetchina, 50, 941.44,  0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:10:15, Football, Montego / Boys, Handicap, 0.00, 1.72, 2.12, 1, 1xbetchina, 50, 941.44,  0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:10:20, Football, Montego / Boys, Handicap, 0.00, 1.72, 2.12, 1, 1xbetchina, 50, 941.44,  0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:10:25, Football, Montego / Boys, Handicap, 0.00, 1.72, 2.12, 1, 1xbetchina, 50, 941.44,  0, 4, BET_VALUE_DECREASED, 2
+2017-10-03 03:10:29, Football, Montego / Boys, Handicap, 0.00, 1.72, 2.12, 1, 1xbetchina, 50, 941.44,  0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:11:22, Football, Montego / Boys, Handicap, 0.00, 1.72, 2.11, 1, 1xbetchina, 50, 941.44,  0, 2, BET_VALUE_DECREASED, 1
+2017-10-03 03:11:28, Football, Montego / Boys, Handicap, 0.00, 1.69, 1.72, 1, 1xbetchina, 61, 941.44,  0, 5, BET_ODD_REMOVED, 1
+2017-10-03 03:11:32, Football, Montego / Boys, Handicap, 0.00, 1.69, 1.72, 1, babibet,    61, 1034.10, 0, 2, BET_VALUE_DECREASED, 1
+2017-10-03 03:11:40, Football, Montego / Boys, Handicap, 0.00, 1.69, 1.69, 1, 18bet,      62, 806.24,  0, 7, BET_SUCCESS, 0
+2017-10-03 03:16:53, Tennis, Tigre/Kevin, Over/Under, 31.50, 2.10, 2.10, 0, 18bet,      46, 822.24, 0, 2,  BET_SUCCESS, 0
+2017-10-03 03:17:08, Tennis, Tigre/Kevin, Over/Under, 31.50, 2.05, 2.15, 1, 1xbetchina, 45, 941.44, 0, 18, BET_VALUE_DECREASED, 1
+2017-10-03 03:17:12, Tennis, Tigre/Kevin, Over/Under, 31.50, 2.10, 2.10, 1, babibet,    46, 988.10, 0, 3,  BET_SUCCESS, 0
+2017-10-03 03:25:46, Tennis, Max/Dudi, Handicap, 4.50, 2.13, 2.18, 0, 18bet,      45, 868.24, 0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 03:25:46, Tennis, Max/Dudi, Handicap, 4.50, 2.05, 2.05, 1, 1xbetchina, 47, 941.44, 0, 3, BET_ODD_REMOVED, 1
+2017-10-03 03:35:59, Tennis, Milos Raonic (CAN) / Viktor Troicki (SRB), ATP - Tokyo Japan Open Championships, Handicap, -4.50, 1.87, 1.87, 0, babibet, 55, 979.10, 0, 6, BET_SUCCESS, 0
+2017-10-03 03:36:02, Tennis, Milos Raonic (CAN) / Viktor Troicki (SRB), ATP - Tokyo Japan Open Championships, Handicap, -4.50, 2.59, 2.59, 1, 1xbetchina, 40, 941.44, 0, 9, BET_UNABLE, 2
+2017-10-03 03:36:07, Tennis, Milos Raonic (CAN) / Viktor Troicki (SRB), ATP - Tokyo Japan Open Championships, Handicap, -4.50, 2.55, 2.55, 1, 18bet, 40, 828.24, 0, 3, BET_SUCCESS, 0
+2017-10-03 03:59:08, Tennis, Max Purcell / Dudi Sela, Challenger. Kaohsiung, Over/Under, 26.50, 2.03, 2.03, 1, 18bet, 49, 779.24, 0, 4, BET_SUCCESS, 0
+2017-10-03 03:59:13, Tennis, Max Purcell / Dudi Sela, Challenger. Kaohsiung, Over/Under, 26.50, 1.96, 2.24, 0, 1xbetchina, 45, 1038.19, 0, 10, BET_VALUE_DECREASED, 1
+2017-10-03 03:59:25, Tennis, Max Purcell / Dudi Sela, Challenger. Kaohsiung, Over/Under, 26.50, 1.85, 1.96, 0, 1xbetchina, 50, 1038.19, 0, 11, BET_VALUE_DECREASED, 1
+2017-10-03 03:59:39, Tennis, Max Purcell / Dudi Sela, Challenger. Kaohsiung, Over/Under, 26.50, 1.85, 1.85, 0, 1xbetchina, 53, 985.19, 0, 12, BET_SUCCESS, 0
+2017-10-03 04:22:44, Tennis, Mats Moraing / Ernesto Escobedo, Challenger. Monterrey, Handicap, 2.50, 2.00, 2.10, 1, 18bet, 50, 779.24, 0, 3, BET_VALUE_DECREASED, 2
+2017-10-03 04:22:53, Tennis, Mats Moraing / Ernesto Escobedo, Challenger. Monterrey, Handicap, 2.50, 1.97, 2.12, 0, 1xbetchina, 50, 985.19, 0, 12, BET_VALUE_DECREASED, 1
+2017-10-03 04:39:01, Tennis, Marius Copil / Sumit Nagal, Challenger. Kaohsiung, Handicap, -3.50, 2.29, 2.48, 1, babibet, 40, 1034.10, 0, 2, BET_VALUE_DECREASED, 1
+2017-10-03 04:39:10, Tennis, Marius Copil / Sumit Nagal, Challenger. Kaohsiung, Handicap, -3.50, 1.90, 1.90, 0, 1xbetchina, 52, 933.19, 0, 11, BET_SUCCESS, 0
+2017-10-03 04:39:14, Tennis, Marius Copil / Sumit Nagal, Challenger. Kaohsiung, Handicap, -3.50, 2.06, 2.29, 1, babibet, 43, 1034.10, 0, 3, BET_VALUE_DECREASED, 2

@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  BetEngine.cpp
+  OddsInfo.cpp
+  MainInfo.cpp
+  global.cpp
+  GameInfo.cpp
+  GameData.cpp
+  Generating Code...
+c:\users\administrator\desktop\win-win [spatial] - 1\betengine\betengine.cpp(378): warning C4715: 'SelectStake': not all control paths return a value
+     Creating library C:\Users\Administrator\Desktop\win-win [spatial] - 1\Debug\BetEngine.lib and object C:\Users\Administrator\Desktop\win-win [spatial] - 1\Debug\BetEngine.exp
+  BetEngine.vcxproj -> C:\Users\Administrator\Desktop\win-win [spatial] - 1\Debug\BetEngine.dll
+  BetEngine.vcxproj -> C:\Users\Administrator\Desktop\win-win [spatial] - 1\Debug\BetEngine.pdb (Full PDB)

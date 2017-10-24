@@ -1,0 +1,24 @@
+2017-10-20 05:01:13, Tennis, Max Purcell / Cheng-Yu Yu, ITF. Thailand. F9, Over/Under, 30.50, 1.95, 1.90, 0, babibet, 40, 567.30, 0, 12, BET_SUCCESS, 2
+2017-10-20 05:01:56, Tennis, Max Purcell / Cheng-Yu Yu, ITF. Thailand. F9, Over/Under, 30.50, 1.48, 1.48, 1, 1xbetchina, 56, 1683.42, 0, 55, BET_VALUE_CHANGED, 4
+2017-10-20 05:13:31, Tennis, Jing-Jing Lu / Kurumi Nara, ITF. Suzhou. Women, Handicap, -5.50, 3.25, 3.25, 1, babibet, 30, 537.30, 0, 32, BET_VALUE_CHANGED, 4
+2017-10-20 05:14:01, Tennis, Jing-Jing Lu / Kurumi Nara, ITF. Suzhou. Women, Handicap, -5.50, 1.64, 1.64, 0, 1xbetchina, 51, 1665.90, 0, 61, BET_SUCCESS, 4
+2017-10-20 05:32:41, Tennis, Yen-Hsun Lu / Peter Polansky, ATP Challenger - Ningbo, Handicap, -3.50, 2.15, 2.15, 1, 1xbetchina, 45, 1665.90, 0, 9, BET_VALUE_CHANGED, 2
+2017-10-20 05:33:11, Tennis, Yen-Hsun Lu / Peter Polansky, ATP Challenger - Ningbo, Handicap, -3.50, 2.00, 2.00, 0, babibet, 49, 537.30, 0, 31, BET_GET_ODD_FAIL, 2
+2017-10-20 05:33:50, Tennis, Yen-Hsun Lu / Peter Polansky, ATP Challenger - Ningbo, Handicap, -1.50, 1.61, 1.61, 0, 1xbetchina, 57, 1665.90, 0, 38, BET_GET_ODD_FAIL, 2
+2017-10-20 05:34:05, Tennis, Yen-Hsun Lu / Peter Polansky, ATP Challenger - Ningbo, Handicap, -1.50, 2.36, 2.36, 1, babibet, 40, 537.30, 0, 53, BET_PARSE_FAIL, 2
+2017-10-20 05:37:08, Tennis, Yen-Hsun Lu / Peter Polansky, ATP Challenger - Ningbo, Handicap, -2.50, 2.42, 2.42, 1, babibet, 40, 537.30, 0, 7, BET_PARSE_FAIL, 2
+2017-10-20 05:37:22, Tennis, Yen-Hsun Lu / Peter Polansky, ATP Challenger - Ningbo, Handicap, -2.50, 1.77, 1.58, 0, 1xbetchina, 54, 1611.90, 0, 21, BET_SUCCESS, 2
+2017-10-20 05:46:55, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Handicap, -4.50, 1.66, 2.00, 0, babibet, 48, 537.30, 0, 14, BET_PARSE_FAIL, 2
+2017-10-20 05:47:36, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Handicap, -4.50, 2.15, 2.10, 1, 1xbetchina, 45, 1611.90, 0, 61, BET_UNABLE, 2
+2017-10-20 05:53:11, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Handicap, -5.50, 1.72, 1.90, 0, babibet, 51, 537.30, 0, 13, BET_PARSE_FAIL, 2
+2017-10-20 05:53:24, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Handicap, -5.50, 2.13, 1.80, 1, 1xbetchina, 45, 1611.90, 0, 27, BET_UNABLE, 2
+2017-10-20 05:53:42, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Handicap, -6.50, 2.85, 1.85, 0, babibet, 35, 537.30, 0, 7, BET_PARSE_FAIL, 2
+2017-10-20 05:54:01, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Handicap, -6.50, 1.96, 1.38, 1, 1xbetchina, 50, 1611.90, 0, 26, BET_UNABLE, 2
+2017-10-20 05:55:08, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Handicap, -6.50, 2.00, 2.00, 0, babibet, 51, 537.30, 0, 20, BET_PARSE_FAIL, 2
+2017-10-20 05:55:43, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Handicap, -6.50, 2.31, 1.72, 1, 1xbetchina, 45, 1611.90, 0, 54, BET_UNABLE, 2
+2017-10-20 06:11:59, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Over/Under, 17.50, 2.50, 2.13, 0, babibet, 40, 537.30, 0, 6, BET_PARSE_FAIL, 2
+2017-10-20 06:12:15, Tennis, Tung-Lin Wu / Karunuday Singh, ITF Thailand, Over/Under, 17.50, 1.50, 1.50, 1, 1xbetchina, 58, 1495.90, 0, 22, BET_SUCCESS, 2
+2017-10-20 06:12:28, Tennis, Miyabi Inoue / Ayano Shimizu, ITF. Hamamatsu. Women, Handicap, -6.50, 2.88, 1.99, 0, babibet, 35, 537.30, 0, 12, BET_PARSE_FAIL, 2
+2017-10-20 06:12:39, Tennis, Miyabi Inoue / Ayano Shimizu, ITF. Hamamatsu. Women, Handicap, -6.50, 1.58, 1.37, 1, 1xbetchina, 58, 1495.90, 0, 22, BET_UNABLE, 2
+2017-10-20 06:12:48, Tennis, Miyabi Inoue / Ayano Shimizu, ITF. Hamamatsu. Women, Over/Under, 18.50, 2.07, 2.07, 1, babibet, 50, 537.30, 0, 8, BET_PARSE_FAIL, 2
+2017-10-20 06:13:05, Tennis, Miyabi Inoue / Ayano Shimizu, ITF. Hamamatsu. Women, Over/Under, 18.50, 1.82, 1.68, 0, 1xbetchina, 51, 1393.90, 0, 24, BET_SUCCESS, 2

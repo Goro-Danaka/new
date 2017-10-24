@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="global.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="SportsBetting.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="SportsBettingDoc.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="SportsBettingView.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_1bet.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_1xbetchina.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_18bet.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_188bet.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_babibet.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_bet365.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_bet888vip.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_bet3000.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_betballer.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_marathonbet.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="GridCtrl\GridCell.cpp">
+      <Filter>GridCell</Filter>
+    </ClCompile>
+    <ClCompile Include="GridCtrl\GridCellBase.cpp">
+      <Filter>GridCell</Filter>
+    </ClCompile>
+    <ClCompile Include="GridCtrl\GridCtrl.cpp">
+      <Filter>GridCell</Filter>
+    </ClCompile>
+    <ClCompile Include="GridCtrl\GridDropTarget.cpp">
+      <Filter>GridCell</Filter>
+    </ClCompile>
+    <ClCompile Include="GridCtrl\InPlaceEdit.cpp">
+      <Filter>GridCell</Filter>
+    </ClCompile>
+    <ClCompile Include="GridCtrl\TitleTip.cpp">
+      <Filter>GridCell</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWnd\EditEx.cpp">
+      <Filter>SubWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWnd\GamesView.cpp">
+      <Filter>SubWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWnd\SettingList.cpp">
+      <Filter>SubWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWnd\SettingWnd.cpp">
+      <Filter>SubWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWnd\TeamNameWnd.cpp">
+      <Filter>SubWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWnd\ViewTree.cpp">
+      <Filter>SubWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_bwin.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="BetSites\BetSite_tomato333.cpp">
+      <Filter>BetSites</Filter>
+    </ClCompile>
+    <ClCompile Include="GameData.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="GameInfo.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="OddsInfo.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="MainInfo.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="CaptchaDlg.cpp">
+      <Filter>SubWnd</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="global.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="SportsBetting.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="SportsBettingDoc.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="SportsBettingView.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_1bet.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_1xbetchina.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_18bet.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_188bet.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_babibet.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_bet365.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_bet888vip.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_bet3000.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_betballer.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_marathonbet.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCtrl\CellRange.h">
+      <Filter>GridCell</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCtrl\GridCell.h">
+      <Filter>GridCell</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCtrl\GridCellBase.h">
+      <Filter>GridCell</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCtrl\GridCtrl.h">
+      <Filter>GridCell</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCtrl\GridDropTarget.h">
+      <Filter>GridCell</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCtrl\InPlaceEdit.h">
+      <Filter>GridCell</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCtrl\MemDC.h">
+      <Filter>GridCell</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCtrl\TitleTip.h">
+      <Filter>GridCell</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWnd\EditEx.h">
+      <Filter>SubWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWnd\GamesView.h">
+      <Filter>SubWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWnd\SettingList.h">
+      <Filter>SubWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWnd\SettingWnd.h">
+      <Filter>SubWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWnd\TeamNameWnd.h">
+      <Filter>SubWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWnd\ViewTree.h">
+      <Filter>SubWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_bwin.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="BetSites\BetSite_tomato333.h">
+      <Filter>BetSites</Filter>
+    </ClInclude>
+    <ClInclude Include="GameData.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="GameInfo.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="OddsInfo.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Bet.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="MainInfo.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="CaptchaDlg.h">
+      <Filter>SubWnd</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="XListCtrl\checkboxes.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\checkboxes.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\class_view.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\class_view_hc.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\classview.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\classview_hc.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\explorer.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\explorer_hc.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\file_view.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\file_view_hc.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\fileview.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\fileview_hc.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\menuimages.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\menuimages_hc.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\output_wnd.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\output_wnd_hc.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\properties.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\properties_hc.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\properties_wnd.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\properties_wnd_hc.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\sort.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\sort_hc.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\SportsBetting.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\Toolbar256.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="UserImages.bmp">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="res\SportsBettingDoc.ico">
+      <Filter>res</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="BetSites">
+      <UniqueIdentifier>{1530ce76-8dca-43af-8a56-cb34f2f712bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>{f684f303-239c-4a7d-930a-020f802583da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GridCell">
+      <UniqueIdentifier>{2997b987-45d4-45bf-b7e9-d8e5ad1a439a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SubWnd">
+      <UniqueIdentifier>{00c44bce-accb-43f5-b5e8-72996fa0a62d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{99225fb5-4bbc-4f6c-8ed0-48e577e3d850}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SportsBetting.rc">
+      <Filter>res</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\SportsBetting.rc2">
+      <Filter>res</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>Main</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

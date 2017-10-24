@@ -1,0 +1,50 @@
+2017-10-21 10:42:04, Football, UKP Zielona Gora U19 / Salos Szczecin U19, Poland Championship U19, Handicap, 0.00, 1.65, 3.36, 0, 1xbetchina, 30, 734.65, 0, 19, BET_SUCCESS, 2
+2017-10-21 10:42:08, Football, UKP Zielona Gora U19 / Salos Szczecin U19, Poland Championship U19, Handicap, 0.00, 2.23, 2.23, 1, babibet, 45, 493.69, 0, 19, BET_VALUE_CHANGED, 4
+2017-10-21 10:45:37, Basketball, Enisey / Nizhny Novgorod, VTB United League (Including Overtime), Over/Under, 184.50, 2.03, 2.03, 0, 1xbetchina, 35, 699.65, 0, 25, BET_SUCCESS, 2
+2017-10-21 10:45:45, Basketball, Enisey / Nizhny Novgorod, VTB United League (Including Overtime), Over/Under, 184.50, 1.69, 1.69, 1, babibet, 52, 441.69, 0, 32, BET_SUCCESS, 2
+2017-10-21 10:53:16, Football, AGF Aarhus U19 / Lyngby U19, Denmark Championship U19, Over/Under, 3.00, 1.57, 1.94, 1, 1xbetchina, 51, 799.10, 0, 49, BET_TIMEOUT, 4
+2017-10-21 10:54:11, Football, AGF Aarhus U19 / Lyngby U19, Denmark Championship U19, Over/Under, 3.00, 2.36, 2.36, 0, babibet, 45, 396.69, 0, 104, BET_PARSE_FAIL, 4
+2017-10-21 10:55:51, Tennis, Dusan Lajovic / Simone Bolelli, ATP. Vienna. Qualification, Handicap, 4.50, 1.40, 1.88, 1, babibet, 48, 396.69, 0, 29, BET_TIMEOUT, 2
+2017-10-21 10:57:40, Tennis, Dusan Lajovic / Simone Bolelli, ATP. Vienna. Qualification, Handicap, 4.50, 3.07, 3.07, 0, 1xbetchina, 30, 739.10, 0, 149, BET_SUCCESS, 2
+2017-10-21 10:58:31, Tennis, Darya Kasatkina / Julia Goerges, WTA. Moscow, Handicap, 7.50, 1.80, 1.80, 0, babibet, 56, 340.69, 0, 49, BET_SUCCESS, 2
+2017-10-21 10:58:47, Tennis, Darya Kasatkina / Julia Goerges, WTA. Moscow, Handicap, 7.50, 2.19, 1.92, 1, 1xbetchina, 40, 739.10, 0, 65, BET_UNABLE, 2
+2017-10-21 10:58:59, Football, Sillamae Kalev / Infonet, Estonia. Meistriliiga, Handicap, 1.50, 1.86, 2.25, 0, babibet, 45, 340.69, 0, 10, BET_SUCCESS, 2
+2017-10-21 10:59:07, Football, Sillamae Kalev / Infonet, Estonia. Meistriliiga, Handicap, 1.50, 1.98, 1.98, 1, bet888vip, 51, 296.95, 0, 15, BET_ANALYZE_ERROR2, 2
+2017-10-21 10:59:41, Tennis, Quentin Halys / Pierre-Hugues Herbert, ATP. Vienna. Qualification, Handicap, 5.50, 1.39, 1.39, 0, babibet, 25, 523.58, 0, 32, BET_SUCCESS, 2
+2017-10-21 10:59:49, Tennis, Quentin Halys / Pierre-Hugues Herbert, ATP. Vienna. Qualification, Handicap, 5.50, 2.83, 1.66, 1, 1xbetchina, 58, 739.10, 0, 41, BET_UNABLE, 2
+2017-10-21 11:01:32, Tennis, Florian Mayer / Ernesto Escobedo, ATP. Basel. Qualification, Over/Under, 20.50, 1.83, 1.83, 0, 1xbetchina, 35, 704.10, 0, 90, BET_SUCCESS, 4
+2017-10-21 11:01:33, Tennis, Florian Mayer / Ernesto Escobedo, ATP. Basel. Qualification, Over/Under, 20.50, 1.83, 1.63, 1, babibet, 58, 432.58, 0, 91, BET_SUCCESS, 4
+2017-10-21 11:04:55, Football, Shirak / Pyunik, Armenia. Premier League, Handicap, -1.00, 2.09, 2.08, 1, babibet, 45, 445.58, 0, 34, BET_SUCCESS, 2
+2017-10-21 11:05:02, Football, Shirak / Pyunik, Armenia. Premier League, Handicap, -1.00, 1.71, 1.99, 0, 1xbetchina, 50, 731.45, 0, 40, BET_ALREADY_PLACED, 2
+2017-10-21 11:09:44, Football, Kazakhstan (W) / Bosnia and Herzegovina (W), FIFA World Cup Qualification. Women, Over/Under, 2.00, 1.81, 1.91, 0, bet888vip, 50, 246.95, 0, 23, BET_ANALYZE_ERROR3, 2
+2017-10-21 11:10:17, Football, Kazakhstan (W) / Bosnia and Herzegovina (W), FIFA World Cup Qualification. Women, Over/Under, 2.00, 1.91, 2.38, 1, 1xbetchina, 40, 491.45, 0, 56, BET_SUCCESS, 4
+2017-10-21 11:11:03, Tennis, Dusan Lajovic / Simone Bolelli, ATP. Vienna. Qualification, Handicap, 4.50, 1.43, 1.43, 1, babibet, 45, 400.58, 0, 37, BET_SUCCESS, 4
+2017-10-21 11:12:18, Football, Sweden U19 (W) / Belarus U19 (W), UEFA Women U19 Championship Qualifiers, Handicap, -6.50, 1.51, 1.92, 1, 1xbetchina, 54, 491.45, 0, 36, BET_UNABLE, 2
+2017-10-21 11:12:51, Football, Sweden U19 (W) / Belarus U19 (W), UEFA Women U19 Championship Qualifiers, Handicap, -6.50, 2.63, 2.63, 0, babibet, 45, 310.58, 0, 69, BET_SUCCESS, 4
+2017-10-21 11:18:17, Football, Kazakhstan (W) / Bosnia and Herzegovina (W), FIFA World Cup Qualification. Women, Over/Under, 2.00, 2.37, 2.27, 0, babibet, 35, 320.58, 0, 203, BET_GET_ODD_FAIL, 4
+2017-10-21 11:20:46, Football, Kazakhstan (W) / Bosnia and Herzegovina (W), FIFA World Cup Qualification. Women, Over/Under, 2.00, 2.66, 2.61, 0, babibet, 31, 322.93, 0, 144, BET_VALUE_CHANGED, 4
+2017-10-21 11:28:41, Tennis, Franco Skugor / Marton Fucsovics, ATP. Basel. Qualification, Handicap, -2.50, 1.72, 2.00, 1, babibet, 46, 322.93, 0, 79, BET_VALUE_DECREASED1, 2
+2017-10-21 11:29:15, Tennis, Franco Skugor / Marton Fucsovics, ATP. Basel. Qualification, Handicap, -2.50, 1.72, 2.07, 0, 1xbetchina, 45, 383.90, 0, 119, BET_SUCCESS, 4
+2017-10-21 11:30:00, Football, V-Varen Nagasaki / Nagoya Grampus, Japan. J-League Division 2, Over/Under, 1.00, 1.59, 1.59, 1, bet888vip, 60, 416.49, 0, 43, BET_ANALYZE_ERROR2, 2
+2017-10-21 11:33:11, Football, V-Varen Nagasaki / Nagoya Grampus, Japan. J-League Division 2, Over/Under, 1.00, 4.45, 4.45, 0, babibet, 30, 262.93, 0, 234, BET_SUCCESS, 4
+2017-10-21 11:33:47, Football, UKP Zielona Gora U19 / Salos Szczecin U19, Poland Championship U19, Handicap, 0.00, 2.62, 2.62, 1, babibet, 18, 244.93, 0, 35, BET_SUCCESS, 2
+2017-10-21 11:34:10, Football, Randers U19 / Esbjerg fB U19, Denmark Championship U19, Over/Under, 3.50, 1.65, 2.04, 0, babibet, 49, 274.93, 0, 21, BET_SUCCESS, 2
+2017-10-21 11:34:57, Football, Randers U19 / Esbjerg fB U19, Denmark Championship U19, Over/Under, 3.50, 2.04, 2.24, 1, 1xbetchina, 45, 248.90, 0, 68, BET_SUCCESS, 4
+2017-10-21 11:42:32, Tennis, Nikoloz Basilashvili / Serhiy Stakhovsky, ATP. Vienna. Qualification, Handicap, 5.50, 1.70, 1.70, 0, 1xbetchina, 45, 203.90, 0, 18, BET_SUCCESS, 2
+2017-10-21 11:42:53, Tennis, Nikoloz Basilashvili / Serhiy Stakhovsky, ATP. Vienna. Qualification, Handicap, 5.50, 1.55, 1.73, 1, babibet, 46, 274.93, 0, 34, BET_VALUE_DECREASED1, 2
+2017-10-21 11:58:52, Tennis, Grigor Dimitrov / Fabio Fognini, ATP. Stockholm, Handicap, -5.50, 1.81, 1.94, 1, 1xbetchina, 50, 698.95, 0, 37, BET_UNABLE, 2
+2017-10-21 11:58:52, Tennis, Grigor Dimitrov / Fabio Fognini, ATP. Stockholm, Handicap, -5.50, 1.72, 1.94, 0, babibet, 40, 432.13, 0, 37, BET_VALUE_DECREASED1, 2
+2017-10-21 12:07:41, Tennis, Mikhail Kukushkin / Adrian Bodmer, ATP. Basel. Qualification, Handicap, -6.50, 2.10, 2.10, 1, babibet, 49, 472.13, 0, 13, BET_ODDS_NOT_AVAILABLE, 2
+2017-10-21 12:07:56, Tennis, Mikhail Kukushkin / Adrian Bodmer, ATP. Basel. Qualification, Handicap, -6.50, 2.28, 1.66, 0, 1xbetchina, 45, 608.95, 0, 34, BET_SUCCESS, 2
+2017-10-21 12:08:40, Tennis, Grigor Dimitrov / Fabio Fognini, ATP. Stockholm, Handicap, -5.50, 2.37, 2.47, 0, 1xbetchina, 40, 568.95, 0, 35, BET_SUCCESS, 2
+2017-10-21 12:09:03, Tennis, Grigor Dimitrov / Fabio Fognini, ATP. Stockholm, Handicap, -5.50, 1.53, 1.53, 1, babibet, 52, 472.13, 0, 58, BET_ODDS_NOT_AVAILABLE, 2
+2017-10-21 12:16:26, Football, Tosno / Rostov, Russia. Premier League, Handicap, 0.00, 0.00, 2.18, 0, babibet, 48, 472.13, 0, 39, BET_VALUE_CHANGED, 4
+2017-10-21 12:16:40, Football, Tosno / Rostov, Russia. Premier League, Handicap, 0.00, 2.26, 1.75, 1, 1xbetchina, 45, 523.95, 0, 55, BET_BLOCKED, 4
+2017-10-21 12:19:21, Tennis, Ruben Bemelmans / Jo-Wilfried Tsonga, ATP. Antwerp, Handicap, 5.50, 1.62, 1.62, 0, 1xbetchina, 52, 471.95, 0, 24, BET_SUCCESS, 2
+2017-10-21 12:19:53, Tennis, Ruben Bemelmans / Jo-Wilfried Tsonga, ATP. Antwerp, Handicap, 5.50, 1.64, 1.91, 1, babibet, 45, 472.13, 0, 48, BET_VALUE_DECREASED1, 2
+2017-10-21 12:39:06, Tennis, Thomas Fabbiano / Andreas Haider-Maurer, ATP. Vienna. Qualification, Handicap, -6.50, 2.31, 2.45, 0, 1xbetchina, 40, 391.95, 0, 33, BET_SUCCESS, 2
+2017-10-21 12:39:45, Tennis, Thomas Fabbiano / Andreas Haider-Maurer, ATP. Vienna. Qualification, Handicap, -6.50, 1.33, 1.41, 1, babibet, 51, 517.13, 0, 65, BET_VALUE_DECREASED1, 2
+2017-10-21 12:47:53, Tennis, Thomas Fabbiano / Andreas Haider-Maurer, ATP. Vienna. Qualification, Handicap, -6.50, 2.75, 2.90, 1, babibet, 49, 468.13, 0, 46, BET_VALUE_DECREASED1, 4
+2017-10-21 12:48:14, Tennis, Thomas Fabbiano / Andreas Haider-Maurer, ATP. Vienna. Qualification, Handicap, -6.50, 2.75, 2.75, 1, babibet, 33, 468.13, 0, 16, BET_ODDS_NOT_AVAILABLE, 2
+2017-10-21 12:48:33, Tennis, Ruben Bemelmans / Jo-Wilfried Tsonga, ATP. Antwerp, Handicap, 5.50, 2.69, 2.69, 1, babibet, 31, 437.13, 0, 18, BET_SUCCESS, 2
+2017-10-21 12:56:15, Football, Tianjin Songjiang / Hebei China Fortune, China. Super League, Handicap, -0.00, 2.22, 1.71, 0, bet888vip, 45, 564.59, 0, 16, BET_SUCCESS, 2
